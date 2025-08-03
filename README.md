@@ -1,6 +1,6 @@
 # 🎮 Discord Tournament Bot
 
-A simple Discord bot that manages 1v1-style tournaments, tracks match results, and displays outcomes using images.
+A simple Discord bot that manages tournaments, tracks match results, and displays outcomes using images.
 
 ---
 
